@@ -13,6 +13,17 @@ Features
     Converts Yoti code to C code
     Generates a .c file for each input .yoti file
     Simple and easy-to-understand syntax
+    
+It supports:
+
+    Numerical variables
+    Basic arithmetic
+    If statements
+    While loops
+    Print text and numbers
+    Input numbers
+    Labels and goto
+    Comments
 
 
 Installation
